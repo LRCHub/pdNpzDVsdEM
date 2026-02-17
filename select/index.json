@@ -1,112 +1,112 @@
 {
   "version": 1,
-  "base_track": "イノセント",
+  "base_track": "イノセント (BUMP OF CHICKEN LIVE 2022 Silver Jubilee at Makuhari Messe)",
   "base_artist": "BUMP OF CHICKEN",
-  "createdAt": "2025-12-14T05:26:52.372031Z",
+  "createdAt": "2026-02-17T08:19:15.407737Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "イノセント~無邪気なままで~",
-      "artist": "和田光司",
+      "title": "イノセント",
+      "artist": "yama",
       "has_synced": true,
-      "path": "select/01_イノセント~無邪気なままで~_和田光司.lrc"
+      "path": "select/01_イノセント_yama.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "イノセント",
-      "artist": "yama",
-      "has_synced": true,
-      "path": "select/02_イノセント_yama.lrc"
+      "title": "イノセント・ブルー",
+      "artist": "DeviceHigh",
+      "has_synced": false,
+      "path": "select/02_イノセント・ブルー_DeviceHigh.txt"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "イノセント・ブルー",
-      "artist": "DeviceHigh",
-      "has_synced": false,
-      "path": "select/03_イノセント・ブルー_DeviceHigh.txt"
+      "title": "イノセント",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_イノセント_BUMP_OF_CHICKEN.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
       "title": "イノセント",
-      "artist": "BUMP OF CHICKEN",
-      "has_synced": true,
-      "path": "select/04_イノセント_BUMP_OF_CHICKEN.lrc"
+      "artist": "DREAMS COME TRUE",
+      "has_synced": false,
+      "path": "select/04_イノセント_DREAMS_COME_TRUE.txt"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "イノセント ～無邪気なままで～",
-      "artist": "和田光司",
+      "title": "イノセント",
+      "artist": "earthmind",
       "has_synced": true,
-      "path": "select/05_イノセント_~無邪気なままで~_和田光司.lrc"
+      "path": "select/05_イノセント_earthmind.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "イノセント 〜無邪気なままで〜",
-      "artist": "Digimon",
-      "has_synced": true,
-      "path": "select/06_イノセント_〜無邪気なままで〜_Digimon.lrc"
+      "title": "イノセント・ブルー",
+      "artist": "ヨウ・ミズノ (日高里菜)",
+      "has_synced": false,
+      "path": "select/06_イノセント・ブルー_ヨウ・ミズノ_(日高里菜).txt"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "イノセント",
-      "artist": "DREAMS COME TRUE",
-      "has_synced": false,
-      "path": "select/07_イノセント_DREAMS_COME_TRUE.txt"
+      "title": "イノセント~無邪気なままで~",
+      "artist": "和田光司",
+      "has_synced": true,
+      "path": "select/07_イノセント~無邪気なままで~_和田光司.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "イノセント～無邪気にままで～",
+      "title": "イノセント ～無邪気なままで～",
       "artist": "和田光司",
       "has_synced": true,
-      "path": "select/08_イノセント~無邪気にままで~_和田光司.lrc"
+      "path": "select/08_イノセント_~無邪気なままで~_和田光司.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "05 - イノセント～無邪気なままで～ [-] Innocent ~Mujaki na mama de~",
-      "artist": "和田光司",
+      "title": "イノセント 〜無邪気なままで〜",
+      "artist": "Digimon",
       "has_synced": true,
-      "path": "select/09_05_-_イノセント~無邪気なままで~_[-]_Innocent_~Mujaki_na_mama_de~_和田光司.lrc"
+      "path": "select/09_イノセント_〜無邪気なままで〜_Digimon.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "イノセント 〜無邪気なままで〜",
+      "title": "イノセント～無邪気にままで～",
       "artist": "和田光司",
       "has_synced": true,
-      "path": "select/10_イノセント_〜無邪気なままで〜_和田光司.lrc"
+      "path": "select/10_イノセント~無邪気にままで~_和田光司.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "イノセント~無邪気なままで~",
-      "artist": "Various Artists",
+      "title": "05 - イノセント～無邪気なままで～ [-] Innocent ~Mujaki na mama de~",
+      "artist": "和田光司",
       "has_synced": true,
-      "path": "select/11_イノセント~無邪気なままで~_Various_Artists.lrc"
+      "path": "select/11_05_-_イノセント~無邪気なままで~_[-]_Innocent_~Mujaki_na_mama_de~_和田光司.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "イノセント",
-      "artist": "earthmind",
+      "title": "イノセント 〜無邪気なままで〜",
+      "artist": "和田光司",
       "has_synced": true,
-      "path": "select/12_イノセント_earthmind.lrc"
+      "path": "select/12_イノセント_〜無邪気なままで〜_和田光司.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "イノセント・ブルー",
-      "artist": "ヨウ・ミズノ (日高里菜)",
-      "has_synced": false,
-      "path": "select/13_イノセント・ブルー_ヨウ・ミズノ_(日高里菜).txt"
+      "title": "イノセント~無邪気なままで~",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/13_イノセント~無邪気なままで~_Various_Artists.lrc"
     },
     {
       "id": "lrclib_14",

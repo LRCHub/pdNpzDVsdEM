@@ -1,4 +1,4 @@
-# BUMP OF CHICKEN – イノセント
+# BUMP OF CHICKEN – イノセント (BUMP OF CHICKEN LIVE 2022 Silver Jubilee at Makuhari Messe)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
